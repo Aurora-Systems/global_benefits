@@ -7,7 +7,7 @@ export default function TopNavigation(){
 
         
         <div className="d-flex justify-content-between text-white p_bg p-2" >
-            <div className="d-flex gap-1 ">
+            <div className="d-flex flex-wrap gap-1 ">
                 <span><small><i className="bi bi-envelope"/> info@globalbenefitspbc.co.zw</small></span>
                 <span><small><i className="bi bi-telephone"/> +267 78 581 658</small></span>
             </div>

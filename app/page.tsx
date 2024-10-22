@@ -44,7 +44,7 @@ export default function Home(){
         <div>
           <h1 className="display-1 p_text text-center fw-bold">Services</h1>
         <div className="row mb-5">
-          <div className="col-sm text-center">
+          <div className="col-sm text-center mb-3">
             <div className="card p_bg text-white p-2">
               <Image 
                 src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/148087%201.png"
@@ -61,7 +61,7 @@ export default function Home(){
 
             </div>
           </div>
-          <div className="col-sm text-center">
+          <div className="col-sm text-center mb-3">
           <div className="card p_bg text-white p-2">
               <Image 
                 src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/2147768593%201.png"
@@ -78,7 +78,7 @@ export default function Home(){
 
             </div>
           </div>
-          <div className="col-sm text-center">
+          <div className="col-sm text-center mb-3">
           <div className="card p_bg text-white p-2">
               <Image 
                 src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/14722%201.png"
@@ -106,25 +106,32 @@ export default function Home(){
             <h1 className="display-1 p_text">What Makes Us <b>Different</b>?</h1>
           </div>
           <div className="row gap-3">
-            <div className="col-sm p_bg text-white rounded">
+            <div className="col-sm  mb-3">
+            <div className="card  text-white  p_bg">
               <h1 className="display-1"><i className="bi bi-star-fill"/></h1>
               <p className="fw-bold">Unmatched Expertise</p>
               <p>With years of experience in the trade finance industry, our team offers expert guidance and support at every stage of the transaction process. From structuring complex Letters of Credit to advising on Bank Guarantees, we ensure that our clients have the right solutions to meet their unique needs.</p>
             </div>
-            <div className="col-sm p_bg text-white rounded">
+            </div>
+            <div className="col-sm  mb-3 ">
+              <div className="card  text-white  p_bg">
               <h1 className="display-1"><i className="bi bi-globe"/></h1>
               <p className="fw-bold">Global Reach</p>
               <p>Whether you’re trading within your region or across continents, our network of international financial partners allows us to facilitate smooth and secure transactions, regardless of location. Our services are backed by a deep understanding of global trade practices and regulations.</p>
-            </div> 
-            <div className="col-sm p_bg text-white rounded">
+            
+              </div>
+              </div> 
+            <div className="col-sm  mb-3">
+            <div className="card  text-white  p_bg">
               <h1 className="display-1"><i className="bi bi-tools"/></h1>
               <p className="fw-bold">Customized Solutions</p>
               <p>No two businesses are alike, and neither are their trade financing requirements. We work closely with our clients to design and deliver customized solutions that align with their specific business goals and market dynamics. Our experts will help you process all your needs in a secure and efficient manner</p>
             </div>
+            </div>
           </div>
         </div>
         <div className="row">
-          <div className="col-sm">
+          <div className="col-sm text-center text-md-start">
             <h1 className="display-1 p_text">
               Why Choose <b>Global Benefits PBC</b>
             </h1>
