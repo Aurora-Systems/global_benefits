@@ -1,21 +1,17 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
+import {Poppins} from "next/font/google"
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-icons/font/bootstrap-icons.min.css"
 import "./globals.css";
 import TopNavigation from "./components/top_navigation";
 import Footer from "./components/footer";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+const poppins = Poppins({
+  display:'swap',
+  style:"normal",
+  subsets:['latin'],
+  weight:['100','200','300', '400', '500', '600', '700', '800', '900']
+})
 
 export const metadata: Metadata = {
   title: "Global Benefits PBC",
@@ -28,8 +24,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
+    <html lang="en" >
+      <body className={poppins.className}>
         <TopNavigation/>
         {children}
         <Footer/>

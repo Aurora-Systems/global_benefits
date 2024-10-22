@@ -12,11 +12,15 @@ a{
 }
 
 .p_btn{
-  background-color: #041026;
+  background-color: var(--primary_color);
 }
 .p_bg_opacity{
   background-color: #041026bd;
 }
 button{
   min-width: 100px;
+}
+
+.p_text{
+  color: var(--primary_color);
 }
