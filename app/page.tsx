@@ -154,7 +154,7 @@ export default function Home(){
           At Global Benefits PBC, we believe that strong partnerships are the foundation of our success. Over the years, we have built relationships with a diverse network of trusted partners who share our commitment to excellence in trade finance. These partnerships allow us to deliver world-class financial solutions and provide our clients with the resources they need to thrive in global markets.
           Below is a list of our valued partners who contribute to our mission of facilitating seamless and secure international trade. Together, we are shaping the future of global commerce.
           </p>
-          <Link href="/become_a_partner"><button type="button" className="btn p_btn text-white">Become A Partner</button></Link>
+          <Link href="/contact_us"><button type="button" className="btn p_btn text-white">Get In Touch To Become A Partner</button></Link>
          </div>
         </div>
 
