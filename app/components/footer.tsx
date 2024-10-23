@@ -31,7 +31,7 @@ export default function Footer(){
                 
                 <div className="col-sm d-flex flex-column text-center">
                 <span className="fw-bold mb-2">Pages</span>
-                    <Link href="/home">Home</Link>
+                    <Link href="/">Home</Link>
                     {/* <Link href="/about_us">About Us</Link> */}
                     <Link href="/services">Services</Link>
                     <Link href="/contact_us">Contact Us</Link>
