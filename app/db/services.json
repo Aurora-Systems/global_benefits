@@ -1,0 +1,142 @@
+[
+    {
+        "service":"Letters of Credit At Sight",
+        "def":"When time is of the essence, our Letters of Credit at Sight provide an immediate and secure solution for both buyers and sellers. Once the required trade documents are presented and verified, the payment is made promptly, ensuring swift and efficient settlements. This method offers both parties the assurance that the transaction will proceed smoothly without unnecessary delays.",
+        "why":"Why Choose Letters of Credit at Sight?",
+        "points":[
+            "Immediate payment upon compliance with terms",
+            "Eliminates the risk of non-payment for exporters",
+            "Provides security for both importers and exporters",
+            "Ideal for fast-moving trade deals and urgent shipments"
+        ]
+        ,
+        "extras":"Our services range from Letters of Credit at Sight to Performance Guarantees, all designed to minimize risk, ensure compliance, and enhance trust between trade partners. With our global expertise and industry knowledge, we are committed to helping you achieve seamless and secure cross-border transactions.",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-alexander-suhorucov-6457521.png"
+    },
+    {
+        "service":"Usance Letters of Credit",
+        "def":"For businesses that need flexibility in payment terms, our Usance Letters of Credit provide deferred payment options. With this instrument, the exporter agrees to receive payment at a later date, giving the importer more time to manage cash flow while still providing the seller with the security of guaranteed payment. This solution is particularly beneficial for businesses operating in industries where payment terms are traditionally extended.",
+        "why":"Benefits of Usance Letters of Credit:",
+        "points":[
+            "Deferred payments allow for better cash flow management",
+            "Guarantees payment for exporters, even with extended terms",
+            "Flexible payment structures tailored to business needs",
+            "Encourages long-term trade relationships"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-sora-shimazaki-5668494.png"
+    },
+    {
+        "service":"Standby Letters of Credit (SBLC)",
+        "def":"When it comes to securing your business interests, Standby Letters of Credit (SBLC) act as a financial safety net. In case of non-performance or default by the buyer or seller, the SBLC ensures that the agreed-upon payment is made, safeguarding the transaction. This tool is often used in large, high-value projects where performance and payment certainty are critical.",
+        "why":"Advantages of Standby Letters of Credit:",
+        "points":[
+            "Protection against non-performance and non-payment",
+            "Enhances trust between international trade partners",
+            "Commonly used in construction, real estate, and infrastructure projects",
+            "Provides financial backing for contracts, boosting credibility"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-august-de-richelieu-4427428.png"
+    },
+    {
+        "service":"Bank Guarantees",
+        "def":"A Bank Guarantee is a powerful financial instrument that ensures both parties in a transaction meet their contractual obligations. By offering a Bank Guarantee, we provide you with a written commitment from a bank that the buyer will fulfill their payment obligations to the seller, or vice versa. This tool is essential for businesses looking to mitigate risk in large contracts, especially in unfamiliar markets.",
+        "why":"Why Bank Guarantees Are Essential:",
+        "points":[
+            "Ensures contract completion and payment fulfillment",
+            "Reduces risk in cross-border transactions",
+            "Enhances credibility with trade partners",
+            "Facilitates larger deals with increased confidence"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-matthiaszomer-618158.png"
+    },
+    {
+        "service":"Pre-Advice Messages",
+        "def":"A Pre-Advice Message gives advance notice that a financial instrument, such as a Letter of Credit or Guarantee, is being issued. This notification allows the beneficiary to prepare for the transaction and ensures a smoother process once the formal instrument is in place. Pre-Advice Messages are crucial for managing expectations and coordinating logistics in international trade.",
+        "why":"Why Pre-Advice Messages Are Useful:",
+        "points":[
+            "Offers early notice of financial instruments being issued",
+            "Allows for better coordination between parties",
+            "Helps prevent delays and improves efficiency in trade deals",
+            "Builds transparency and trust in the transaction process"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-anete-lusina-4792284.png"
+    },
+    {
+        "service":"Proof Of Funds (POF) Message",
+        "def":"A Proof of Funds (POF) Message is essential in high-value transactions, offering verification that the buyer has the necessary funds to complete the deal. This document provides the seller with assurance of the buyer’s financial capability, helping to build trust and reduce the risk of non-payment.",
+        "why":"Benefits of POF Messages:",
+        "points":[
+            "Verifies the buyer’s financial capacity",
+            "Builds trust in high-value or complex transactions",
+            "Essential for securing long-term partnerships and contracts",
+            "Reduces risk of failed transactions due to lack of funds"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-sora-shimazaki-5673488.png"
+    },
+    {
+        "service":"Demand Guarantees",
+        "def":"Our Demand Guarantees ensure immediate payment if the terms of a contract are not met, providing a quick and efficient remedy for contract breaches. This solution is often used when there’s a high risk of default or non-compliance. Unlike Performance Guarantees, which cover the quality of execution, Demand Guarantees focus on ensuring that the beneficiary receives payment quickly in the event of a breach",
+        "why":"Why Demand Guarantees Matter:",
+        "points":[
+            "Quick and efficient recourse for payment in case of default",
+            "Guarantees immediate action and payment to the beneficiary",
+            "Reduces the financial impact of contract non-compliance",
+            "Often used in construction, service agreements, and sales contracts"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-olly-3760514.png"
+    },
+    {
+        "service":"Performance Guarantees",
+        "def":"In industries where timely and accurate execution of contracts is critical, Performance Guarantees offer assurance that contractual terms will be met. If the supplier fails to perform according to the contract, the buyer can claim compensation from the issuing bank. This instrument is often used in the construction, manufacturing, and infrastructure sectors, where performance is closely tied to project success.",
+        "why":"Key Features of Performance Guarantees:",
+        "points":[
+            "Protects against non-performance of contractual obligations",
+            "Provides compensation if performance standards aren’t met",
+            "Enhances project security for large-scale, complex deals",
+            "Builds trust between stakeholders in high-risk projects"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-pixabay-48195.png"
+    },
+    {
+        "service":"Comfort Letters",
+        "def":"For businesses looking to provide assurance to trade partners, Comfort Letters offer written confirmation of a company’s ability and intent to fulfill its obligations. While not legally binding, these letters are often used to demonstrate good faith and financial strength, especially in the early stages of negotiations.",
+        "why":"Why Use Comfort Letters?",
+        "points":[
+            "Provides confidence to trade partners without legal obligation",
+            "Often used in large or complex transactions",
+            "Signals financial stability and intent to fulfill obligations",
+            "Helps facilitate negotiations and build trust"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-sora-shimazaki-5668859.png"
+    },
+    {
+        "service":"Ready Willing And Able (RWA) Messages",
+        "def":"When entering into significant transactions, Ready Willing and Able (RWA) Messages serve as formal confirmations that your company is prepared to proceed with the deal. This communication reassures your trade partners that you are financially and logistically equipped to fulfill the terms of the contract, making it an essential tool in large or time-sensitive deals.",
+        "why":"Key Benefits of RWA Messages:",
+        "points":[
+            "Confirms readiness and capability to proceed with a transaction",
+            "Offers assurance to counterparties in high-value deals",
+            "Strengthens credibility and negotiation power",
+            "Often required in trade financing and commodity deals"
+        ]
+        ,
+        "extras":"",
+        "img":"https://ngratesc.sirv.com/Global%20Benefits%20PBC/pexels-pixabay-261679.png"
+    }
+]

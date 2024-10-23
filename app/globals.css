@@ -14,6 +14,11 @@ a{
 .p_btn{
   background-color: var(--primary_color);
 }
+
+.p_btn:hover{
+  background-color: var(--primary_color);
+
+}
 .p_bg_opacity{
   background-color: #041026bd;
 }

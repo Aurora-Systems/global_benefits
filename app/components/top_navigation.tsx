@@ -22,6 +22,7 @@ export default function TopNavigation(){
         </div>
         <div className="p_bg p-2 d-flex justify-content-between align-items-center">
             <div className="d-flex gap-2 align-items-center">
+                <Link href={"/"}>
                 <Image 
                     src={"https://ngratesc.sirv.com/Global%20Benefits%20PBC/logo.png"}
                     alt="Global Benefits Logo"
@@ -30,6 +31,7 @@ export default function TopNavigation(){
                     height={0}
                 />
                 <span className="text-white">Global Benefits PBC</span>
+                </Link>
             </div>
             <div >  
                
