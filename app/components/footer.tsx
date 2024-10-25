@@ -11,7 +11,7 @@ export default function Footer(){
 
                          <p>Proud Partners</p>
                     <Image 
-                        src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/logo%20yield%20for%20finance.png" 
+                        src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/yield_logo.png" 
                         alt="Yield For Finance Logo"
                         width={150}   
                         height={0}

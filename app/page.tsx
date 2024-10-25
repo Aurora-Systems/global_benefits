@@ -8,13 +8,12 @@ export default function Home(){
         <div className="text-center text-white  p-3  ">
             <div className="p_bg_opacity">
             <Image 
-            src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/logo.png" 
+            src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/3-removebg-preview.png" 
             alt="Global Benefits Logo" 
-            width={200}
+            width={400}
             height={0}
-            className="img-fluid"
+            className="img-fluid p-3"
           />
-          <h1 className="display-1">Global Benefits PBC</h1>
           <p>Expert Trade Financial Solutions</p>
           <div className="pb-5">
           <Link href="/services"><button type="button" className="btn btn-light">Find Out More</button></Link>

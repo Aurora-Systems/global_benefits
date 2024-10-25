@@ -10,9 +10,9 @@ export default function Services(){
             <div className="d-flex justify-content-center align-items-center min-vh-100" style={bg_img("https://ngratesc.sirv.com/Global%20Benefits%20PBC/2150152254.png")}>
                 <div className="p_bg_opacity text-center text-white p-5  round">
                     <Image 
-                        src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/logo.png"
-                        width={200}
-                        height={200}
+                        src="https://ngratesc.sirv.com/Global%20Benefits%20PBC/3-removebg-preview.png"
+                        width={400}
+                        height={0}
                         alt="Global Benefits PBC logo" 
                         className="img-fluid"   
                     />
