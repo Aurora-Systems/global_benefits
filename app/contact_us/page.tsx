@@ -61,7 +61,7 @@ export default function ContactUs(){
                     </div>
                     <div className="row mb-3">
                         <div className="col-sm">
-                            <button type="button" disabled={loading} className="btn p_btn text-white">Send</button>
+                            <button type="submit" disabled={loading} className="btn p_btn text-white">Send</button>
                         </div>
                     </div>
                 </form>
