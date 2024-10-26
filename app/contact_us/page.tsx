@@ -11,8 +11,8 @@ export default function ContactUs(){
     e.preventDefault();
     set_loading(true)
     emailjs
-      .sendForm('service_2tebyla', 'template_u5zwtxl', form.current, {
-        publicKey: 'ew1StMU__aUWbv1Rf',
+      .sendForm('service_mw28sna', 'template_f1i853i', form.current, {
+        publicKey: 'NWIUjdwgpeRMKAyGZ',
       })
       .then(
         () => {
@@ -54,7 +54,7 @@ export default function ContactUs(){
                     <div className="row">
                         <div className="col-sm mb-3">
                             <span>Your Message</span>
-                            <textarea className="form-control" name="your message" required>
+                            <textarea className="form-control" name="message" required>
 
                             </textarea>
                         </div>
