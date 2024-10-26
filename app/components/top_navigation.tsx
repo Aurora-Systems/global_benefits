@@ -12,8 +12,7 @@ export default function TopNavigation(){
                 <span><small><i className="bi bi-telephone"/> +267 78 581 658</small></span>
             </div>
             <div className="d-flex flex-row flex-nowrap gap-1">
-                <a href="https://linkedin.com/globalbenefitspbc" target="_blank" rel="noreferrer" ><i className="bi bi-linkedin text-white"/></a>
-                <a href="https://instagram.com/globalbenefitspbc" target="_blank" rel="noreferrer"><i className="bi bi-instagram text-white"/></a>
+                <a href="https://www.linkedin.com/company/global-benefits-pbc/" target="_blank" rel="noreferrer" ><i className="bi bi-linkedin text-white"/></a>
                 <a href="https://facebook.com/globalbenefitspbc" target="_blank" rel="noreferrer"><i className="bi bi-facebook text-white"/></a>
             </div>
         </div>

@@ -24,8 +24,8 @@ export default function Footer(){
                     <span className="fw-bold mb-2">Contact Details</span>
                     <Link href="mailto:info@globalbenefitspbc.co.zw">info@globalbenefitspbc.co.zw</Link>
                     <Link href="tel:+267 78 581 658">+267 78 581 658</Link>
-                    <Link href="https://linkedin.com/globalbenefitspbc">LinkedIn</Link>
-                    <Link href="https://facebook.com/globalbenefitspbc">Facebook</Link>
+                    <Link href="https://www.linkedin.com/company/global-benefits-pbc/">LinkedIn</Link>
+                    <Link href="https://www.facebook.com/globalbenefitspbc">Facebook</Link>
 
                 </div>
                 
